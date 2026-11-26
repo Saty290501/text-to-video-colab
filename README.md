@@ -3,7 +3,7 @@
 I used Zeroscope v2 to generate a three-second video from a text prompt
 on a free Google Colab Tesla T4 GPU.
 
-[View the notebook](./text_to_video_colab.ipynb) · [Watch the video](./boat.mp4)
+[View the notebook](./text_to_video_colab.ipynb) · [Watch the video](./output.mp4)
 
 ## Prompt
 
